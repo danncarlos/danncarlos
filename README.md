@@ -1,5 +1,5 @@
 # danncarlos
-Hii, i'm Dannylo Carlos, braziliam dev graduated in Computer Science.
+Hii, i'm Dannylo Carlos, braziliam dev
 
 <h2>
   Dev With
