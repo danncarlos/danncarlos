@@ -2,6 +2,20 @@
 <img alt="cover" src="https://i.imgur.com/vCjM6JW.png" />
 A software engineer(for R4G Team) passionate about creating efficient and innovative software solutions. Specializing in .NET and Angular, I have a particular fascination with AI and what we can build with it. Most recently, I've been studying game development, with ChatGPT and Leonardo.ai.
 
+## Education
+
+**Bachelor's in Computer Science**   
+Universidade Nove de Julho, Brazil (2016 - 2019)
+
+**Technologist Internet Systems**   
+Universidade Nove de Julho, Brazil (2017 - 2019)
+
+**Certifications:**
+
+- .NET REST API's (2019)
+- Flutter (2020)
+- for full list please visit my [LinkedIn](https://www.linkedin.com/in/dannylocarlos/)
+
 ## Technologies and Tools
 ![](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
@@ -16,7 +30,6 @@ A software engineer(for R4G Team) passionate about creating efficient and innova
 
 ## Learning
 <img alt="Unity" src="https://img.shields.io/badge/unity%20-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white"/> <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-
 
 ## Contact
 You can find me on the following platforms:
