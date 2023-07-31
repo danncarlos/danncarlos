@@ -39,3 +39,9 @@ You can find me on the following platforms:
 
 Or you can email me directly at [danncarlos@outlook.com.br](mailto:danncarlos@outlook.com.br) or [contact@r4gteam.com](mailto:contact@r4gteam.com)
 
+## Interests and Goals
+
+As a passionate software engineer, I am always eager to take on new and challenging projects. I'm particularly interested in freelance jobs that allow me to leverage my skills in .NET and Angular, and I'm always on the lookout for opportunities to expand my skill set.
+
+Currently, I'm dedicated to improving my English skills with the aim of opening up more opportunities to work internationally. I'm especially interested in positions within Europe, where I hope to bring my passion for software development to a new environment and to contribute to innovative teams abroad.
+
